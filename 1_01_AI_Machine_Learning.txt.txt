@@ -1,0 +1,6 @@
+            Artificial Intelligence and Machine Learning
+Artificial intelligence enables computers to perform tasks that normally require human intelligence.
+Machine learning allows computers to learn patterns from data and improve predictions.
+Supervised learning uses labeled data, while unsupervised learning discovers hidden patterns.
+Neural networks are used for classification, prediction, and pattern recognition.
+  

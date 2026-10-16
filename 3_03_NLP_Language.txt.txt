@@ -1,0 +1,6 @@
+            Natural Language Processing
+Natural language processing enables computers to process and analyze human language.
+Text preprocessing includes tokenization, stopword removal, normalization, and stemming.
+TF-IDF measures the importance of terms in documents and supports information retrieval.
+Extractive summarization selects important sentences from a document.
+  

@@ -1,0 +1,6 @@
+            Data Structures and Algorithms
+Data structures organize information efficiently.
+Arrays provide indexed access and linked lists connect elements through nodes.
+Hash tables provide fast average lookup using hashing.
+Algorithms include searching, sorting, binary search, BFS, DFS, and dynamic programming.
+  
